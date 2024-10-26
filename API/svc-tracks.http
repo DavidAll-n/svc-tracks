@@ -1,0 +1,6 @@
+@svc_tracks_HostAddress = http://localhost:5145
+
+GET {{svc_tracks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
